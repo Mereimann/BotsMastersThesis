@@ -1,2 +1,2 @@
 # BotsMastersThesis
-The bots used for my masters thesis
+The bots used for my master's thesis
